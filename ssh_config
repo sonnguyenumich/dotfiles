@@ -1,5 +1,4 @@
 Host CEAN
-	Hostname login.enign.umich.edu
+	HostName login.engin.umich.edu
 	User sxnguyen
-	Compression yes 
-
+	Compression yes
